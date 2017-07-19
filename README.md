@@ -25,4 +25,4 @@
 	        
 ```	        
 
-* Ensure that no errors should be logged while running the script.  
+* Ensure that no errors should be logged while running the jar.  
